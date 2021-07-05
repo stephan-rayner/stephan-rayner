@@ -1,6 +1,5 @@
-### Hi Friend 👋
-
-I am Stephan and this is my github page.
+<h1 align="center"> Hi Friend 👋 </h1>
+<h3 align="center">I am Stephan and this is my github page</h3>
 
 #### A Bit About Me
 - 💕 I love talking about software, distributed systems problems, data problems, cooking, and making things.
@@ -12,6 +11,21 @@ I am Stephan and this is my github page.
   - Projects that help people (I would like to leave the world better than I found it).
 - 💬 Ask me about every way to cook an egg.
 - 🌱 I’m currently learning to juggle.
+
+<hr />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stephan-rayner&show_icons=true&count_private=true" alt="stephan-rayner" /> 
+</p>
+<hr />
+
+<p align="center">
+  <a href="https://linkedin.com/in/stephanrayner/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stephanrayner-linkedin" height="20" width="20" /></a>
+  <a href="https://stephan-rayner.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="profclems" height="20" width="20" /></a>
+  <a href="https://stackoverflow.com/users/10173254/stephan-rayner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stephan-rayner-stackoverflow" height="20" width="20" /></a>
+  <a href="https://twitter.com/clems_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="clems_dev" height="20" width="20" /></a>
+  
+</p>
+
 
 <!--
 **stephan-rayner/stephan-rayner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
