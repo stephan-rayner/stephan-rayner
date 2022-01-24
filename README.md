@@ -26,7 +26,7 @@
   <a href="https://linkedin.com/in/stephanrayner/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stephanrayner-linkedin" height="20" width="20" /></a>
 <!--   <a href="https://stephan-rayner.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="profclems" height="20" width="20" /></a> -->
   <a href="https://stackoverflow.com/users/10173254/stephan-rayner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stephan-rayner-stackoverflow" height="20" width="20" /></a>
-  <a href="https://twitter.com/clems_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="clems_dev" height="20" width="20" /></a>
+<!--   <a href="https://twitter.com/clems_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="clems_dev" height="20" width="20" /></a> -->
   
 </p>
 
