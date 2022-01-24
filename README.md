@@ -1,5 +1,5 @@
 <h1 align="center"> Hello Friend 👋 </h1>
-<h3 align="center">I am Stephan and this is me on github</h3>
+<h3 align="center"> <a href="https://gist.github.com/stephan-rayner/be75c5050c5e490a3a9194aa6a42b719"> I am Stephan and this is me on github! </a></h3>
 
 #### A Bit About Me
 - 💕 I love talking about software, distributed systems problems, data problems, cooking, and making things.
@@ -29,9 +29,6 @@
   <a href="https://twitter.com/clems_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="clems_dev" height="20" width="20" /></a>
   
 </p>
-
-<script src="https://gist.github.com/stephan-rayner/be75c5050c5e490a3a9194aa6a42b719.js"></script>
-
 
 <!--
 **stephan-rayner/stephan-rayner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
