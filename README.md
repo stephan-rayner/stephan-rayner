@@ -1,16 +1,20 @@
-<h1 align="center"> Hi Friend 👋 </h1>
-<h3 align="center">I am Stephan and this is my github page</h3>
+<h1 align="center"> Hello Friend 👋 </h1>
+<h3 align="center">I am Stephan and this is me on github</h3>
 
 #### A Bit About Me
 - 💕 I love talking about software, distributed systems problems, data problems, cooking, and making things.
+
 - 🔭 I’m currently working on:
-  - At 🏠 I write software and 3d print CAD models to make life a little easier
-  - For 💰 I  write event-sourced backend applications, infrastructure, prototypes, and CI pipelines for mobile games.
+  - At 🏠 I write software and 3d print CAD models to make life a little easier.
+  - For 💰 I  develop a machine learning platform focusing on reinforcement learning. Making ML models that can play mobile games better than me.
 - 📚 Once upon a time I voleteered teaching highschool students how to program and build robots. I would love to do that again.
+
 - 👯 I’m looking to collaborate on:
-  - Projects that help people (I would like to leave the world better than I found it).
+  - Projects that help people
+
 - 💬 Ask me about every way to cook an egg.
-- 🌱 I’m currently learning to juggle.
+
+- 🌱 I’m currently learning French ... again.
 
 <hr />
 <p align="center">
