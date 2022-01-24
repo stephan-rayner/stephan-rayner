@@ -2,7 +2,7 @@
 <h3 align="center"> <a href="https://gist.github.com/stephan-rayner/be75c5050c5e490a3a9194aa6a42b719"> I am Stephan and this is me on github! </a></h3>
 
 #### A Bit About Me
-- 💕 I love talking about software, distributed systems problems, data problems, cooking, and making things.
+- 💕 I love talking about software, distributed systems, machine learning, data processing pipelines, cooking, and making things.
 
 - 🔭 I’m currently working on:
   - At 🏠 I write software and 3d print CAD models to make life a little easier.
