@@ -11,13 +11,14 @@
 
 - 🔭 I’m currently working on:
   - At 🏠 I write software and 3d print CAD models to make life a little easier.
-  - For 💰 I  develop a machine learning platform focusing on reinforcement learning. Making ML models that can play mobile games better than me.
-- 📚 Once upon a time I voleteered teaching highschool students how to program and build robots. I would love to do that again.
+  - For 💰 I work at GitLab as part of the AI Research and Model Evaluation group.
+- 📚 Once upon a time:
+  - I voleteered teaching highschool students how to program and build robots. I would love to do that again.
 
 - 👯 I’m looking to collaborate on:
-  - Projects that help people
+  - Developer tooling
 
-- 🌱 I’m currently learning French ... again.
+- 🌱 I’m currently learning French
 
 <hr />
 <p align="center">
