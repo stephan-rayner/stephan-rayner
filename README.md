@@ -2,7 +2,12 @@
 <h3 align="center"> <a href="https://gist.github.com/stephan-rayner/be75c5050c5e490a3a9194aa6a42b719"> I am Stephan and this is me on github! </a></h3>
 
 #### A Bit About Me
-- 💕 I love talking about software, distributed systems, machine learning, data processing pipelines, cooking, and making things.
+- 💕 I love talking about the folowing:
+  - Distributed systems
+  - Software systems
+  - Machine learning
+  - Data processing
+  - Cooking
 
 - 🔭 I’m currently working on:
   - At 🏠 I write software and 3d print CAD models to make life a little easier.
@@ -11,8 +16,6 @@
 
 - 👯 I’m looking to collaborate on:
   - Projects that help people
-
-- 💬 Ask me about every way to cook an egg.
 
 - 🌱 I’m currently learning French ... again.
 
