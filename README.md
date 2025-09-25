@@ -1,23 +1,6 @@
 <h1 align="center"> Hello Friend 👋 </h1>
 <h3 align="center"> <a href="https://gist.github.com/stephan-rayner/be75c5050c5e490a3a9194aa6a42b719"> I am Stephan and this is me on github! </a></h3>
 
-#### A Bit About Me
-- 💕 I love talking about the folowing:
-  - Distributed systems
-  - Software systems
-  - Machine learning
-  - Data processing
-  - Cooking
-
-- 🔭 I’m currently working on:
-  - At 🏠 I write software and 3d print CAD models to make life a little easier.
-  - For 💰 I work at GitLab as part of the AI Research and Model Evaluation group.
-- 📚 Once upon a time:
-  - I voleteered teaching highschool students how to program and build robots. I would love to do that again.
-
-- 👯 I’m looking to collaborate on:
-  - Developer tooling
-
 - 🌱 I’m currently learning French
 
 <hr />
