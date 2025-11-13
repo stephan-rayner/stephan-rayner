@@ -3,12 +3,6 @@
 
 - 🌱 I’m currently learning French
 
-<hr />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stephan-rayner&show_icons=true&count_private=true" alt="stephan-rayner" /> 
-</p>
-<hr />
-
 <p align="center">
   <a href="https://linkedin.com/in/stephanrayner/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stephanrayner-linkedin" height="20" width="20" /></a>
 <!--   <a href="https://stephan-rayner.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="profclems" height="20" width="20" /></a> -->
