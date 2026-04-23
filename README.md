@@ -9,7 +9,4 @@
 </p>
 <hr />
 
-<span align="center">
-  <a href="https://linkedin.com/in/stephanrayner/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stephanrayner-linkedin" height="20" width="20" /></a>
-  <a href="https://stackoverflow.com/users/10173254/stephan-rayner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stephan-rayner-stackoverflow" height="20" width="20" /></a>
-</span>
+<a href="https://linkedin.com/in/stephanrayner/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stephanrayner-linkedin" height="20" width="20" /></a>
