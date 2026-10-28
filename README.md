@@ -1,7 +1,7 @@
 <h1 align="center"> Hello Friends 👋 </h1>
 <h3 align="center"> <a href="https://stephan-rayner.github.io"> I am Stephan and this is me on github! </a></h3>
 
-- 🌱 I'm currently learning German
+- 🌱 I'm currently learning French
 
 <hr />
 <p align="center">
